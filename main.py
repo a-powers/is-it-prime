@@ -1,3 +1,4 @@
+print("Welcome.  Pick a number to determine if it is a Prime number.")
 
 def prime_checker(number):
     is_prime = True
